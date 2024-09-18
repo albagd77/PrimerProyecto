@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 406,
+  "port": 8888,
+  "root_dir": "/home/albagd",
+  "secure": false,
+  "sock": "",
+  "token": "c5bcf9391bc21176f8623938cf391bdc4d31a3482ff2c9c5",
+  "url": "http://localhost:8888/",
+  "version": "2.14.2"
+}
