@@ -105,3 +105,4 @@ Si estás usando **Windows Terminal** para ejecutar WSL, puedes configurar las c
 1. Abre **Windows Terminal**.
 2. Haz clic en la flecha hacia abajo (▼) en la parte superior de la ventana y selecciona **Configuración**.
 3. En la sección **Acciones**, puedes asignar o editar las combinaciones de teclas para copiar y pegar.
+jupyter notebook

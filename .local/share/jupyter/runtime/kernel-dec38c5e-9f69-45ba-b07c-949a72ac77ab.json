@@ -1,0 +1,13 @@
+{
+  "shell_port": 51943,
+  "iopub_port": 38653,
+  "stdin_port": 53795,
+  "control_port": 45435,
+  "hb_port": 48757,
+  "ip": "127.0.0.1",
+  "key": "a8c29e78-a624219ba6398725a36badc6",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/albagd/PrimerLabMAGD.ipynb"
+}
